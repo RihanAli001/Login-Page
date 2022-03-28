@@ -4,32 +4,3 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
-
-.login{
-    margin: auto;
-    padding: 50px;
-    width: 300px;
-    background-color: white;
-    border-radius: 10px;
-}
-
-.login>h1{
-    text-align: center;
-}
-
-.login>.in{
-    width: 270px;
-    height: 30px;
-    font-size:large;
-    border-radius: 10px;
-    margin-top: 5px;
-    padding: 5px 15px 5px 15px;
-}
-
-.login>.sub{
-    width: 100px;
-    height: 30px;
-    border-radius: 5px;
-    color: white;
-    background-color: blue;
-}
